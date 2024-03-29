@@ -1,0 +1,5 @@
+tqdm
+streamlit
+numpy
+sympy
+pint
