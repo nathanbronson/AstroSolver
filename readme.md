@@ -15,3 +15,6 @@ $ streamlit run astrosolver.py
 AstroSolver will open in the browser and present an array of input fields to enter values. It will intelligently parse these inputs and interpret them using the given units or a default unit if none is specified. AstroSolver includes common units as well as astronomy-specific units and astronomical constants as valid inputs.
 
 When enough values are populated in the input matrix to solve an equation numerically for a single variable, AstroSolver presents the equation to the user along with a button to solve for the variable and include this value as input to other equations. AstroSolver also gives a standalone unit conversion feature.
+
+## License
+See `LICENSE`.
